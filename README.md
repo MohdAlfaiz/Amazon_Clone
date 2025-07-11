@@ -8,7 +8,7 @@
 
 ## 🚀 Live Preview
 
-🔗 [Click here to view the live site](#)
+🔗 [Click here to view the live site]((https://mohdalfaiz.github.io/Amazon_Clone/))
 
 ---
 
@@ -105,8 +105,7 @@ Feel free to open issues, suggest improvements, ya sirf "Nice work!" keh do.
 
 ## 📬 Connect with Me
 
-🔗 [LinkedIn](#) *(add your link)*  
-🐙 [GitHub](#) *(add your link)*  
+🔗 [LinkedIn](www.linkedin.com/in/mohd-alfaiz) *(add your link)*  
 📩 Let’s build something together!
 
 ---
