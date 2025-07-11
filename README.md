@@ -52,25 +52,7 @@ Every `div`, every `box-shadow`, every `eventListener` is a milestone in my lear
 ---
 
 ## 📂 Folder Structure
-amazon-clone/
-│
-├── index.html # Landing page
-├── products.html # Product listing
-├── cart.html # Cart page
-├── signin.html # Sign-in form
-├── signup.html # Sign-up form
-│
-├── css/
-│ └── style.css # All styles
-│
-├── js/
-│ └── script.js # All JS logic
-│
-├── assets/
-│ └── images/ # Product & UI images
-│
-└── README.md # You’re reading it 😉
-
+<pre> ```bash amazon-clone/ │ ├── index.html # Landing page ├── products.html # Product listing ├── cart.html # Cart page ├── signin.html # Sign-in form ├── signup.html # Sign-up form │ ├── css/ │ └── style.css # All styles │ ├── js/ │ └── script.js # All JS logic │ ├── assets/ │ └── images/ # Product & UI images │ └── README.md # You’re reading it 😉 ``` </pre>
 ---
 
 ## 💡 What I Learned
